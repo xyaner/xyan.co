@@ -9,6 +9,7 @@
 	<h3>We need more changes</h3>
 	<p>Lorem Ipsum....</p>
 	<P>Dolor stuff</p>
+   <p>Notepad++ is cool!</p>
 </body>
 </html>
 
